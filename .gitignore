@@ -47,3 +47,10 @@ desktop.ini
 
 # Power BI temporary files
 *.pbit.tmp
+
+
+# Temporary notebook verification script
+/src/check_notebook_changes.py
+
+# Local SQL execution output
+/reports/sql_validation_output.txt
