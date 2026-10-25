@@ -1,0 +1,2 @@
+Model,Train_Period,Test_Period,MAE,RMSE,WAPE_Percent
+Weekly Seasonal Naive,2013-2016,2017,8435.95,9899.24,28.69

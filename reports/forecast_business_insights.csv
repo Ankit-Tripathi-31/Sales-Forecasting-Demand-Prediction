@@ -1,0 +1,14 @@
+Category,Metric,Value,Unit
+Model Performance,Selected Forecasting Model,Trend-Adjusted Seasonal Average,Model
+Model Performance,Final Test MAE,2253.06,Units
+Model Performance,Final Test RMSE,2328.11,Units
+Model Performance,Final Test WAPE,7.66,Percent
+Annual Demand,Actual Annual Demand,10733740,Units
+Annual Demand,Predicted Annual Demand,11556105.48,Units
+Annual Demand,Annual Overforecast,822365.48,Units
+Seasonal Demand,Highest Demand Month,Jul,Month
+Seasonal Demand,Lowest Demand Month,Jan,Month
+Forecast Error,Highest Absolute Error Month,Jul,Month
+Forecast Error,Lowest Absolute Error Month,Jan,Month
+Forecast Error,Overpredicted Months,12,Months
+Forecast Error,Underpredicted Months,0,Months
